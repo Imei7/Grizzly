@@ -1,0 +1,6 @@
+2026-03-16 20:20:35 - tg_bot.bot_init - INFO - Telegram bot initialized
+2026-03-16 20:20:36 - core.queue_engine - INFO - Queue engine initialized with 10 workers
+2026-03-16 20:20:36 - core.otp_poller - INFO - OTP poller initialized
+2026-03-16 20:20:36 - core.sniper_engine - INFO - Sniper engine initialized
+2026-03-16 20:20:36 - core.auto_buy_engine - INFO - Auto buy engine initialized
+2026-03-16 20:20:36 - core.rate_limiter - INFO - Rate limiter initialized

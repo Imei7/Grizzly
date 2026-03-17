@@ -1,0 +1,9 @@
+{
+  "name": "grizzly-telegram-bot",
+  "version": "1.0.0",
+  "description": "Professional GrizzlySMS Telegram Bot",
+  "scripts": {
+    "dev": "cd /home/z/my-project/mini-services/grizzly-telegram-bot && python3.13 bot.py",
+    "start": "cd /home/z/my-project/mini-services/grizzly-telegram-bot && python3.13 bot.py"
+  }
+}
